@@ -1,5 +1,5 @@
 # Author Tunç Gürsoy 24/02/2021
-# Define : Server Side of the TEXT ANALYZER challenge
+# Define : Server Side of the TEXT ANALYZER challenge And Main Part 
 # Example Routes :
 # "http://localhost:8080/" Return the requests body
 # "http://localhost:8080/analyze" Returns the full analysis of the given text
